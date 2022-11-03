@@ -3,9 +3,14 @@
 
 보러가기 https://aewols.github.io/publising_dnmd/
 
+<br>
+<br>
 
 ## 이미지
 <img src="publishing_pbg_2.png" width="300">
+
+<br>
+<br>
 
 ## 소개
 About 디노마드
@@ -14,6 +19,9 @@ About 디노마드
 기획은 물론 운영, 제작에 이르기까지 디노마드는 전문 인력과
 인하우스 스튜디오를 통해 국내에서 가장 새롭고 멋진 프로젝트를
 선보이고 있습니다.
+
+<br>
+<br>
 
 ## 수행 내용
 OnePage 형태의 메인페이지 제작 - HTML, CSS를 이용한 UI 구현

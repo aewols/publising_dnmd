@@ -4,12 +4,10 @@
 보러가기 https://aewols.github.io/publising_dnmd/
 
 <br>
-<br>
 
 ## 이미지
 <img src="publishing_pbg_2.png" width="300">
 
-<br>
 <br>
 
 ## 소개
@@ -20,7 +18,6 @@ About 디노마드
 인하우스 스튜디오를 통해 국내에서 가장 새롭고 멋진 프로젝트를
 선보이고 있습니다.
 
-<br>
 <br>
 
 ## 수행 내용

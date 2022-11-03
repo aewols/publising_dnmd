@@ -2,7 +2,7 @@
 디노마드 웹 리디자인 (원페이지)
 
 웹사이트 https://aewols.github.io/publising_dnmd/
-비핸스 https://www.behance.net/gallery/156229687/2021-Web-Design-DNMD-
+<br>비핸스 https://www.behance.net/gallery/156229687/2021-Web-Design-DNMD-
 
 <br>
 
